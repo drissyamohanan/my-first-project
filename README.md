@@ -1,2 +1,2 @@
 # my-first-project
-my first codig proect
+A simple calculator using python that performs basic arithmetic operations
